@@ -1,0 +1,23 @@
+{
+  "name": "spmw",
+  "version": "1.0.0",
+  "description": "aaaaaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "single-page-markdown-website 'home.md' --open --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "single-page-markdown-website": {
+    "baseUrl": "https://ezllabs.github.io/ezlabs",
+    "title": "Ezl Labs Inc.",
+    "description": "Temporary homepage",
+    "toc": true,
+    "sections": true,
+    "version": null
+  },
+  "dependencies": {
+    "single-page-markdown-website": "^0.0.25"
+  }
+}
