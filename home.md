@@ -21,7 +21,7 @@
 
 # 인재 채용
 
-...
+<job@ezllabs.co.kr>로 이력서 및 자신을 소개할 수 있는 자료들을 보내주세요. 
 
 ## Software Engineer (Front-end)
 
@@ -59,13 +59,9 @@
   - 효과적인 커뮤니케이션 능력으로 논점에 대한 이해와 설득이 수월하신 분
   - UX/UI를 포함한 앱/웹 환경에 대한 이해도를 지니신 분
   - 프로덕트 디자인 프로세스/라이프사이클과 관련된 의사결정에 관여한 경험이 있으신 분
-  - MS Office, teams , Figma, Google Workspace, Jira, Confluence, slack 등의 협업 툴 사용이 가능하신 분
+  - MS Office, teams, Figma, Google Workspace, Jira, Confluence, slack 등의 협업 툴 사용이 가능하신 분
 - 우대사항
   - 디자인 시스템에 대한 이해가 있으신 분
   - GA4 연동, 이벤트 설계 등에 대한 이해가 있으신 분
   - AppsFlyer, Airbridge 등 MMP 연동 경험이 있는 분
   - SAFe (Scaled Agile Framework)에 대한 이해
-
-# 제휴 문의
-
-...
