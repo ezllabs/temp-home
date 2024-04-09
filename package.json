@@ -15,7 +15,8 @@
     "description": "Temporary homepage",
     "toc": true,
     "sections": true,
-    "version": null
+    "version": null,
+    "faviconImage": "image/favicon.svg"
   },
   "dependencies": {
     "single-page-markdown-website": "^0.0.25"
