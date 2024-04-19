@@ -58,6 +58,46 @@
 - 다른 사람들과 협업하여 프로젝트를 수행한 경험이 있으신 분
 - 자동화 테스트 코드의 작성이 가능하신 분
 
+## Software Engineer (Back-end)
+
+### 채용 절차
+
+1. 서류 접수
+    > <job@ezllabs.co.kr>로 이력서 및 자신을 소개할 수 있는 자료들을 보내주세요. 
+2. 온라인 코딩 테스트
+3. 화상 기술 면접, 코딩 테스트 리뷰
+4. 대면 면접
+### 주요 업무
+
+- 자사의 Wep Application 및 Mobile App에 필요한 API 및 Back-Office 설계 및 개발
+- 효율적이고 안정적인 서비스 운영을 위한 인프라 구조 및 성능 개선
+- 다양한 외부 서비스와의 API 개발 연동
+
+### 기술스택
+
+- Backend: Python, Javascript
+- Framework: Django, Koa
+- Database: SQL, PostgreSQL, Redis
+- Infra: AWS, CDK, Terraform, k8s
+- CI/CD: AWS codebuild, code pipeline, argocd
+- 기타: Jenkins, git, google workspace, jira, confluence
+
+### 자격요건
+
+- 개발 경력 5년 이상 혹은 그에 준하는 역량을 갖추신 분
+- 리눅스 운영체제에 대한 기본 지식이 있는 분
+- 컨테이너, 가상머신 등 인프라를 가상화/추상화한 배포 방식에 대해 전반적인 이해가 있는 분
+- 쿠버네티스에 대한 기본 지식이 있는 분
+- CI/CD관련 툴에 대한 기본적인 이해가 있는 분
+
+### 우대사항
+
+- 대용량 트래픽 대응을 위한 분산 시스템 운영 경험이 있으신 분
+- 백엔드 성능 최적화 경험이 있으신 분
+- Linux 기반의 중소규모 서버 인프라 설계 및 셋팅 경험이 있으신 분
+- CI/CD에 대한 이해와 구축 경험이 있으신 분
+- 테스트 자동화 경험이 있으신 분
+
 ## PM/기획 (연차 무관)
 
 ### 채용 절차
