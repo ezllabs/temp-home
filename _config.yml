@@ -1,3 +1,1 @@
-include:
-  - docs/.well-known
-  - /docs/.well-known
+include: ["/docs/.well-known", "docs/.well-known", ".well-known"]
